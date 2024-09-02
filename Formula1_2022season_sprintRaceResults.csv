@@ -1,0 +1,61 @@
+Track,Position,No,Driver,Team,Starting Grid,Laps,Time/Retired,Points
+Emilia Romagna,1,1,Max Verstappen,Red Bull Racing RBPT,1,21,30:39.567,8
+Emilia Romagna,2,16,Charles Leclerc,Ferrari,2,21,+2.975,7
+Emilia Romagna,3,11,Sergio Perez,Red Bull Racing RBPT,7,21,+4.721,6
+Emilia Romagna,4,55,Carlos Sainz,Ferrari,10,21,+17.578,5
+Emilia Romagna,5,4,Lando Norris,McLaren Mercedes,3,21,+24.561,4
+Emilia Romagna,6,3,Daniel Ricciardo,McLaren Mercedes,6,21,+27.740,3
+Emilia Romagna,7,77,Valtteri Bottas,Alfa Romeo Ferrari,8,21,+28.133,2
+Emilia Romagna,8,20,Kevin Magnussen,Haas Ferrari,4,21,+30.712,1
+Emilia Romagna,9,14,Fernando Alonso,Alpine Renault,5,21,+32.278,0
+Emilia Romagna,10,47,Mick Schumacher,Haas Ferrari,12,21,+33.773,0
+Emilia Romagna,11,63,George Russell,Mercedes,11,21,+36.284,0
+Emilia Romagna,12,22,Yuki Tsunoda,AlphaTauri RBPT,16,21,+38.298,0
+Emilia Romagna,13,5,Sebastian Vettel,Aston Martin Aramco Mercedes,9,21,+40.177,0
+Emilia Romagna,14,44,Lewis Hamilton,Mercedes,13,21,+41.459,0
+Emilia Romagna,15,18,Lance Stroll,Aston Martin Aramco Mercedes,15,21,+42.910,0
+Emilia Romagna,16,31,Esteban Ocon,Alpine Renault,19,21,+43.517,0
+Emilia Romagna,17,10,Pierre Gasly,AlphaTauri RBPT,17,21,+43.794,0
+Emilia Romagna,18,23,Alexander Albon,Williams Mercedes,20,21,+48.871,0
+Emilia Romagna,19,6,Nicholas Latifi,Williams Mercedes,18,21,+52.017,0
+Emilia Romagna,NC,24,Guanyu Zhou,Alfa Romeo Ferrari,14,0,DNF,0
+Austria,1,1,Max Verstappen,Red Bull Racing RBPT,1,23,26:30.059,8
+Austria,2,16,Charles Leclerc,Ferrari,2,23,+1.675,7
+Austria,3,55,Carlos Sainz,Ferrari,3,23,+5.644,6
+Austria,4,63,George Russell,Mercedes,4,23,+13.429,5
+Austria,5,11,Sergio Perez,Red Bull Racing RBPT,13,23,+18.302,4
+Austria,6,31,Esteban Ocon,Alpine Renault,5,23,+31.032,3
+Austria,7,20,Kevin Magnussen,Haas Ferrari,6,23,+34.539,2
+Austria,8,44,Lewis Hamilton,Mercedes,9,23,+35.447,1
+Austria,9,47,Mick Schumacher,Haas Ferrari,7,23,+37.163,0
+Austria,10,77,Valtteri Bottas,Alfa Romeo Ferrari,12,23,+37.557,0
+Austria,11,4,Lando Norris,McLaren Mercedes,15,23,+38.580,0
+Austria,12,3,Daniel Ricciardo,McLaren Mercedes,16,23,+39.738,0
+Austria,13,18,Lance Stroll,Aston Martin Aramco Mercedes,17,23,+48.241,0
+Austria,14,24,Guanyu Zhou,Alfa Romeo Ferrari,18,23,+50.753,0
+Austria,15,10,Pierre Gasly,AlphaTauri RBPT,10,23,+52.125,0
+Austria,16,23,Alexander Albon,Williams Mercedes,11,23,+52.412,0
+Austria,17,23,Yuki Tsunoda,AlphaTauri RBPT,14,23,+54.556,0
+Austria,18,6,Nicholas Latifi,Williams Mercedes,19,23,+68.694,0
+Austria,19,5,Sebastian Vettel,Aston Martin Aramco Mercedes,20,21,DNF,0
+Austria,NC,14,Fernando Alonso,Alpine Renault,8,0,DNS,0
+Brazil,1,63,George Russell,Mercedes,3,24,30:11.307,8
+Brazil,2,55,Carlos Sainz,Ferrari,5,24,+3.995,7
+Brazil,3,44,Lewis Hamilton,Mercedes,8,24,+4.492,6
+Brazil,4,1,Max Verstappen,Red Bull Racing RBPT,2,24,+10.494,5
+Brazil,5,11,Sergio Perez,Red Bull Racing RBPT,9,24,+11.855,4
+Brazil,6,16,Charles Leclerc,Ferrari,10,24,+13.133,3
+Brazil,7,4,Lando Norris,McLaren Mercedes,4,24,+25.624,2
+Brazil,8,20,Kevin Magnussen,Haas Ferrari,1,24,+28.768,1
+Brazil,9,5,Sebastian Vettel,Aston Martin Aramco Mercedes,13,24,+30.218,0
+Brazil,10,10,Pierre Gasly,AlphaTauri RBPT,12,24,+34.170,0
+Brazil,11,3,Daniel Ricciardo,McLaren Mercedes,14,24,+39.395,0
+Brazil,12,47,Mick Schumacher,Haas Ferrari,20,24,+41.159,0
+Brazil,13,24,Guanyu Zhou,Alfa Romeo Ferrari,17,24,+41.763,0
+Brazil,14,77,Valtteri Bottas,Alfa Romeo Ferrari,18,24,+42.338,0
+Brazil,15,22,Yuki Tsunoda,AlphaTauri RBPT,19,24,+50.306,0
+Brazil,16,18,Lance Stroll,Aston Martin Aramco Mercedes,15,24,+50.700,0
+Brazil,17,31,Esteban Ocon,Alpine Renault,6,24,+51.756,0
+Brazil,18,14,Fernando Alonso,Alpine Renault,7,24,+53.985,0
+Brazil,19,6,Nicholas Latifi,Williams Mercedes,16,24,+76.850,0
+Brazil,NC,23,Alexander Albon,Williams Mercedes,11,12,DNF,0
