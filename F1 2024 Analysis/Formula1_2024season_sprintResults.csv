@@ -1,0 +1,61 @@
+Track,Position,No,Driver,Team,Starting Grid,Laps,Time/Retired,Points
+China,1,1,Max Verstappen,Red Bull Racing Honda RBPT,4,19,32:04.660,8
+China,2,44,Lewis Hamilton,Mercedes,2,19,+13.043,7
+China,3,11,Sergio Perez,Red Bull Racing Honda RBPT,6,19,+15.258,6
+China,4,16,Charles Leclerc,Ferrari,7,19,+17.486,5
+China,5,55,Carlos Sainz,Ferrari,5,19,+20.696,4
+China,6,4,Lando Norris,McLaren Mercedes,1,19,+22.088,3
+China,7,81,Oscar Piastri,McLaren Mercedes,8,19,+24.713,2
+China,8,63,George Russell,Mercedes,11,19,+25.696,1
+China,9,24,Guanyu Zhou,Kick Sauber Ferrari,10,19,+31.951,0
+China,10,20,Kevin Magnussen,Haas Ferrari,12,19,+37.398,0
+China,11,3,Daniel Ricciardo,RB Honda RBPT,14,19,+37.840,0
+China,12,77,Valtteri Bottas,Kick Sauber Ferrari,9,19,+38.295,0
+China,13,31,Esteban Ocon,Alpine Renault,17,19,+39.841,0
+China,14,18,Lance Stroll,Aston Martin Aramco Mercedes,15,19,+40.299,0
+China,15,10,Pierre Gasly,Alpine Renault,16,19,+40.838,0
+China,16,22,Yuki Tsunoda,RB Honda RBPT,19,19,+41.870,0
+China,17,23,Alexander Albon,Williams Mercedes,18,19,+42.998,0
+China,18,2,Logan Sargeant,Williams Mercedes,20,19,+46.352,0
+China,19,27,Nico Hulkenberg,Haas Ferrari,13,19,+49.630,0
+China,20,14,Fernando Alonso,Aston Martin Aramco Mercedes,3,17,DNF,0
+Miami,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,19,31:31.383,8
+Miami,2,16,Charles Leclerc,Ferrari,2,19,+3.371,7
+Miami,3,11,Sergio Perez,Red Bull Racing Honda RBPT,3,19,+5.095,6
+Miami,4,3,Daniel Ricciardo,RB Honda RBPT,4,19,+14.971,5
+Miami,5,55,Carlos Sainz,Ferrari,5,19,+15.222,4
+Miami,6,81,Oscar Piastri,McLaren Mercedes,6,19,+15.750,3
+Miami,7,27,Nico Hulkenberg,Haas Ferrari,10,19,+22.054,2
+Miami,8,22,Yuki Tsunoda,RB Honda RBPT,15,19,+29.816,1
+Miami,9,10,Pierre Gasly,Alpine Renault,16,19,+31.880,0
+Miami,10,2,Logan Sargeant,Williams Mercedes,18,19,+34.355,0
+Miami,11,24,Guanyu Zhou,Kick Sauber Ferrari,17,19,+35.078,0
+Miami,12,63,George Russell,Mercedes,11,19,+35.755,0
+Miami,13,23,Alexander Albon,Williams Mercedes,20,19,+36.086,0
+Miami,14,77,Valtteri Bottas,Kick Sauber Ferrari,19,19,+36.892,0
+Miami,15,31,Esteban Ocon,Alpine Renault,13,19,+37.740,0
+Miami,16,44,Lewis Hamilton,Mercedes,12,19,+49.347,0
+Miami,17,14,Fernando Alonso,Aston Martin Aramco Mercedes,8,19,+59.409,0
+Miami,18,20,Kevin Magnussen,Haas Ferrari,14,19,+66.303,0
+Miami,NC,18,Lance Stroll,Aston Martin Aramco Mercedes,7,1,DNF,0
+Miami,NC,4,Lando Norris,McLaren Mercedes,9,0,DNF,0
+Austria,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,23,26:41.389,8
+Austria,2,81,Oscar Piastri,McLaren Mercedes,3,23,+4.616,7
+Austria,3,4,Lando Norris,McLaren Mercedes,2,23,+5.348,6
+Austria,4,63,George Russell,Mercedes,4,23,+8.354,5
+Austria,5,55,Carlos Sainz,Ferrari,5,23,+9.989,4
+Austria,6,44,Lewis Hamilton,Mercedes,6,23,+11.207,3
+Austria,7,16,Charles Leclerc,Ferrari,10,23,+13.424,2
+Austria,8,11,Sergio Perez,Red Bull Racing Honda RBPT,7,23,+17.409,1
+Austria,9,20,Kevin Magnussen,Haas Ferrari,11,23,+24.067,0
+Austria,10,18,Lance Stroll,Aston Martin Aramco Mercedes,12,23,+30.175,0
+Austria,11,31,Esteban Ocon,Alpine Renault,8,23,+30.839,0
+Austria,12,10,Pierre Gasly,Alpine Renault,9,23,+31.308,0
+Austria,13,22,Yuki Tsunoda,RB Honda RBPT,14,23,+35.452,0
+Austria,14,3,Daniel Ricciardo,RB Honda RBPT,16,23,+39.397,0
+Austria,15,14,Fernando Alonso,Aston Martin Aramco Mercedes,13,23,+43.155,0
+Austria,16,2,Logan Sargeant,Williams Mercedes,15,23,+44.076,0
+Austria,17,23,Alexander Albon,Williams Mercedes,20,23,+44.673,0
+Austria,18,77,Valtteri Bottas,Kick Sauber Ferrari,18,23,+46.511,0
+Austria,19,27,Nico Hulkenberg,Haas Ferrari,17,23,+48.423,0
+Austria,20,24,Guanyu Zhou,Kick Sauber Ferrari,19,23,+53.143,0
