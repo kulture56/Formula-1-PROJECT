@@ -1,5 +1,6 @@
 **Formula-1-PROJECT**
-![F1 2023 Season](https://github.com/user-attachments/assets/23d0c934-8696-40c3-8661-f27b07be5cac)
+![F1 2023 Season](https://github.com/user-attachments/assets/23d0c934-8696-40c3-8661-f27b07be5cac) ![F1AlphamaxnovaGIF](https://github.com/user-attachments/assets/77e61219-545d-46c3-b173-91434a0436e8)
+
 
 **Formula 1 Analysis**
 
